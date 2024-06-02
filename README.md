@@ -57,9 +57,9 @@ This repository documents my journey and learnings during the Oasis Infobyte int
 
 For any questions or discussions, feel free to contact me:
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Email: maheshwarirudransh79@gmail.com
+- LinkedIn: www.linkedin.com/in/rudransh79
+- GitHub: https://github.com/RudraMaheshwari
 
 ---
 
