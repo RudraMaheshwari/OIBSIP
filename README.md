@@ -28,6 +28,14 @@ Below is an overview of the tasks assigned and completed during the internship:
 3. Task 3: Predicting the values using car Dataset
 4. Additional Tasks as assigned
 
+Here are video links of the tasks demonstrations:
+
+Task_1: https://youtu.be/rSLiXgGaTeI (Iris Data Preprocessing and Prediction)
+
+Task_2: https://youtu.be/TOxZf0FrRmo (Umemployment Rate Checking using Matplotlib)
+
+Task_3: https://youtu.be/nSXkvec7vjk (Car Parking Prediction(GUI Based Model))
+
 ## Environment Setup
 
 To run the code and tests provided in this repository, please ensure you have the following setup on your local machine:
